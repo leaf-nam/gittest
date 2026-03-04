@@ -1,5 +1,1 @@
-int main() {
-  printf("hello world");
-  // bad
-  printf("goodbye");
-}
+int main() { printf("hello world"); }

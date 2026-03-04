@@ -1,1 +1,4 @@
-int main() { printf("this is func2"); }
+int main() {
+  // good
+  printf("this is func2");
+}
