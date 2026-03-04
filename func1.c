@@ -1,1 +1,4 @@
-int main() { printf("hello world"); }
+int main() {
+  printf("hello world");
+  printf("goodbye");
+}
